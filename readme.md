@@ -10,7 +10,7 @@
 * Or Run it Locally:
 
   ```bash
-  git clone https://github.com/MEDALIALPHA331/test-react-haitham.git> nasaclone
+  git clone https://github.com/HaithamBH/test-react-armada-delivery.git nasaclone
   
   cd nasaclone
   npm install
